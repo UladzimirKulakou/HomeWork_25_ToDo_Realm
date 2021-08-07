@@ -89,3 +89,4 @@ fastlane/test_output
 
 iOSInjectionProject/
 HomeWork_25_ToDo_Realm/Pods/Manifest 2.lock
+HomeWork_25_ToDo_Realm/Pods/Realm/core/realm-monorepo.xcframework/ios-arm64_x86_64_i386-simulator/Headers/realm/version_id 5.hpp
